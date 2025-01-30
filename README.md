@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <title>Example</title>
+        <title>Copilot.sg for Sales</title>
     </head>
     <body>
-        <p>This is an example of a simple HTML page with one paragraph.</p>
+        <p>A perfect domain name to reach and market your AI, Copilot and Agents </p>
     </body>
 </html>
